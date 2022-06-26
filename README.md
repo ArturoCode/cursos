@@ -4,8 +4,6 @@ Es un portfolio al estilo de una galería de fotos con pequeñas animaciones par
 
 Es una página sencilla realizada con HTML y CSS, principalmente. Es responsive y a diferencia de mi <a href="https://arturocode.github.io/">portfolio web</a>, no tiene un modo claro/oscuro.
 
-El logo del header es uno que he diseñado para que sirva para cada proyecto más allá de mi portfolio y directorio de enlaces. Está en movimiento porque es un GIF transparente.
-
 <table>
     <tr>
         <td><img src="images/cursos_pc.jpg" /></td>
