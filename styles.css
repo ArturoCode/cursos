@@ -93,6 +93,7 @@ h6 {
   margin-bottom: 30px;
 }
 
-a:link {
+a {
   text-decoration: none;
+  color:black;
 }
